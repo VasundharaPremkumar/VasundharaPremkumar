@@ -1,6 +1,10 @@
 <h1 align="center" style="color:green;">Welcome to my GitHub 👋, I'm Vasundhara Premkumar</h1>
 <h3 align="center">🌱 I am a daily learner from India</h3>
 
+<!-- Typing Animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&color=00FF00&lines=Welcome+to+my+GitHub!;I+am+Vasundhara+Premkumar;Always+and+Learning;Exploring+New+Technologies+related+to+ML" />
+</p>
 
 
 # 💫 About Me:
