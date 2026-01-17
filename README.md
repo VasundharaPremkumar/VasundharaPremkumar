@@ -1,33 +1,135 @@
-<h1 align="center" style="color:green;">Welcome to my GitHub 👋, I'm Vasundhara Premkumar</h1>
-<h3 align="center">🌱 I am a daily learner from India</h3>
+<!-- ===================== HEADER ===================== -->
+<h1 align="center" style="color:#00ff99;">
+  Welcome to my GitHub 👋, I'm Vasundhara Premkumar
+</h1>
+<h3 align="center">🌱 A daily learner from India</h3>
 
-<!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&color=00FF00&lines=Welcome+to+my+GitHub!;I+am+Vasundhara+Premkumar;Always+Learning;Exploring+New+Technologies;Passionate+towards+ML" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&color=00FF99&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;I+am+Vasundhara+Premkumar;Always+Learning;Exploring+Backend+and+ML;Problem+Solver" />
 </p>
 
+<hr/>
 
-# 💫 About Me:
-Hey! I’m Vasundhara Premkumar ✨<br>A Computer Science student who enjoys solving problems, building real things, and understanding how systems work end-to-end.<br><br>I focus on DSA, Machine Learning, and I’m currently diving into Backend Development to build scalable, practical applications.<br><br>💻 What I’m Working On<br><br>🧩 DSA & problem-solving (strong fundamentals)<br><br>🤖 Machine Learning projects (hands-on, practical)<br><br>🛠️ Learning Backend Development (APIs, databases, server logic)<br><br>🔄 Improving code structure, readability, and design<br><br>🧰 Tech Stack<br><br>Languages: C++, Python, Java, SQL<br><br>Backend (Learning): APIs, Databases, Server-side logic<br><br>ML & Data: Pandas, NumPy, Scikit-learn<br><br>Core CS: Data Structures, OOP<br><br>Tools: Git, GitHub, MySQL, VS Code<br><br>🎯 Current Goals<br><br>Master DSA patterns<br><br>Build full-stack-ready ML + backend projects<br><br>Learn how real-world backend systems scale<br><br>Be consistent and ship better code 🚀<br><br>⚡ Fun Facts<br><br>I enjoy problems that make me pause and think<br><br>Debugging is frustrating… until it’s satisfying<br><br>Clean logic > fancy code<br><br>🌐 Let’s Connect<br><br>💬 Open to collaboration & learning<br><br>⭐ Feel free to explore, fork, or star my repos!
+<!-- ===================== ABOUT ME ===================== -->
+<div style="border:1px solid #00ff99; border-radius:12px; padding:20px; margin:20px 0;">
 
+<h2>💫 About Me</h2>
 
-## 🌐 Socials:
-[![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/VasundharaPremkumar) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Vasundhara Premkumar) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vasu6pk6@gmail.com) 
+Hey! I’m <b>Vasundhara Premkumar</b> ✨  
+A Computer Science student who enjoys solving problems, building real things, and understanding how systems work end-to-end.
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=VasundharaPremkumar&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=VasundharaPremkumar&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=VasundharaPremkumar&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<br><br>
+I focus on <b>DSA</b>, <b>Machine Learning</b>, and I’m currently learning <b>Backend Development</b> to build scalable, practical applications.
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=VasundharaPremkumar&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+</div>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=VasundharaPremkumar&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<!-- ===================== WHAT I’M WORKING ON ===================== -->
+<div style="border:1px solid #ffa500; border-radius:12px; padding:20px; margin:20px 0;">
 
----
-[![](https://visitcount.itsvg.in/api?id=VasundharaPremkumar&icon=0&color=0)](https://visitcount.itsvg.in)
+<h2>💻 What I’m Working On</h2>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+🧩 DSA & problem-solving (strong fundamentals)<br><br>
+🤖 Machine Learning projects (hands-on, practical)<br><br>
+🛠️ Backend Development (APIs, databases, server logic)<br><br>
+🔄 Improving code structure, readability, and design
+
+</div>
+
+<!-- ===================== TECH STACK ===================== -->
+<div style="border:1px solid #6f42c1; border-radius:12px; padding:20px; margin:20px 0;">
+
+<h2>🧰 Tech Stack</h2>
+
+<b>Languages:</b> C++, Python, Java, SQL<br><br>
+<b>Backend (Learning):</b> REST APIs, Databases, Server-side logic<br><br>
+<b>ML & Data:</b> Pandas, NumPy, Scikit-learn<br><br>
+<b>Core CS:</b> Data Structures, OOP<br><br>
+<b>Tools:</b> Git, GitHub, MySQL, VS Code
+
+</div>
+
+<!-- ===================== CURRENT GOALS ===================== -->
+<div style="border:1px solid #00bcd4; border-radius:12px; padding:20px; margin:20px 0;">
+
+<h2>🎯 Current Goals</h2>
+
+✔ Master DSA patterns<br><br>
+✔ Build full-stack-ready ML + backend projects<br><br>
+✔ Learn how real-world backend systems scale<br><br>
+✔ Stay consistent and ship better code 🚀
+
+</div>
+
+<!-- ===================== FUN FACTS ===================== -->
+<div style="border:1px solid #ff69b4; border-radius:12px; padding:20px; margin:20px 0;">
+
+<h2>⚡ Fun Facts</h2>
+
+• I enjoy problems that make me pause and think<br><br>
+• Debugging is frustrating… until it’s satisfying<br><br>
+• Clean logic &gt; fancy code
+
+</div>
+
+<!-- ===================== CONNECT ===================== -->
+<div style="border:1px solid #ffffff; border-radius:12px; padding:20px; margin:20px 0;">
+
+<h2>🌐 Let’s Connect</h2>
+
+<p>
+  <a href="https://bsky.app/profile/VasundharaPremkumar">
+    <img src="https://img.shields.io/badge/Bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/Vasundhara Premkumar">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:vasu6pk6@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+</div>
+
+<!-- ===================== BADGES ===================== -->
+<h2 align="center">💻 Tech Badges</h2>
+<p align="center">
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white"/>
+</p>
+
+<hr/>
+
+<!-- ===================== STATS ===================== -->
+<h2 align="center">📊 GitHub Stats</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=VasundharaPremkumar&theme=dark&hide_border=false" />
+</p>
+
+<p align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=VasundharaPremkumar&theme=dark&hide_border=false" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VasundharaPremkumar&theme=dark&layout=compact" />
+</p>
+
+<!-- ===================== TROPHIES ===================== -->
+<h2 align="center">🏆 GitHub Trophies</h2>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=VasundharaPremkumar&theme=radical&margin-w=8" />
+</p>
+
+<hr/>
+
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=VasundharaPremkumar&icon=0&color=0" />
+</p>
+
+<p align="center">
+  <i>Proudly crafted with ❤️ and consistency</i>
+</p>
