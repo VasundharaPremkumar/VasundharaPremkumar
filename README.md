@@ -3,7 +3,7 @@
 
 <!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&color=00FF00&lines=Welcome+to+my+GitHub!;I+am+Vasundhara+Premkumar;Always+and+Learning;Exploring+New+Technologies+related+to+ML" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&color=00FF00&lines=Welcome+to+my+GitHub!;I+am+Vasundhara+Premkumar;Always+Learning;Exploring+New+Technologies+Passionate+towards+ML" />
 </p>
 
 
