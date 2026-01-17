@@ -1,3 +1,8 @@
+<h1 align="center" style="color:green;">Welcome to my GitHub 👋, I'm Vasundhara Premkumar</h1>
+<h3 align="center">🌱 I am a daily learner from India</h3>
+
+
+
 # 💫 About Me:
 Hey! I’m Vasundhara Premkumar ✨<br>A Computer Science student who enjoys solving problems, building real things, and understanding how systems work end-to-end.<br><br>I focus on DSA, Machine Learning, and I’m currently diving into Backend Development to build scalable, practical applications.<br><br>💻 What I’m Working On<br><br>🧩 DSA & problem-solving (strong fundamentals)<br><br>🤖 Machine Learning projects (hands-on, practical)<br><br>🛠️ Learning Backend Development (APIs, databases, server logic)<br><br>🔄 Improving code structure, readability, and design<br><br>🧰 Tech Stack<br><br>Languages: C++, Python, Java, SQL<br><br>Backend (Learning): APIs, Databases, Server-side logic<br><br>ML & Data: Pandas, NumPy, Scikit-learn<br><br>Core CS: Data Structures, OOP<br><br>Tools: Git, GitHub, MySQL, VS Code<br><br>🎯 Current Goals<br><br>Master DSA patterns<br><br>Build full-stack-ready ML + backend projects<br><br>Learn how real-world backend systems scale<br><br>Be consistent and ship better code 🚀<br><br>⚡ Fun Facts<br><br>I enjoy problems that make me pause and think<br><br>Debugging is frustrating… until it’s satisfying<br><br>Clean logic > fancy code<br><br>🌐 Let’s Connect<br><br>💬 Open to collaboration & learning<br><br>⭐ Feel free to explore, fork, or star my repos!
 
